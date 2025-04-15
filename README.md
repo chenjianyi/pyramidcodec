@@ -27,7 +27,7 @@ PyramidCodec is a hierarchical codec designed for long-form music generation in 
    git clone https://github.com/chenjianyi/pyramidcodec
    cd pyramidcodec
 
-2. Download checkpoints from https://hkustconnect-my.sharepoint.com/:f:/g/personal/jchenil_connect_ust_hk/Eg_cNjcmzNtEmVI2nmdNY78B9n8qZNEMfybjjzo63y6khg?e=qN6Qjb
+2. Download checkpoints from [here](https://hkustconnect-my.sharepoint.com/:f:/g/personal/jchenil_connect_ust_hk/Eg_cNjcmzNtEmVI2nmdNY78B9n8qZNEMfybjjzo63y6khg?e=qN6Qjb), and put it in pyramidcodec directory.
 
 3. Generation using a gpt model
    ```bash
