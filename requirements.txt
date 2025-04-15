@@ -1,0 +1,9 @@
+argbind>=0.3.7
+einops
+numpy
+torch
+torchaudio
+tqdm
+tensorboard
+numba>=0.5.7
+jupyterlab

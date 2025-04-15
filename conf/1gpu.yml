@@ -1,0 +1,6 @@
+$include:
+  - conf/base.yml
+
+batch_size: 1 #24
+val_batch_size: 6 #24
+num_workers: 8
